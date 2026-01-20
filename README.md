@@ -48,11 +48,36 @@ Este laboratorio se centra en el **control de acceso de usuarios** y la **experi
 ---
 
 ## 📸 Evidencias
-- Aplicación Oracle Fusion ERP creada en **Enterprise Applications**
-- Asignación de la aplicación a grupo de seguridad
-- Usuario añadido al grupo
-- Usuario visualizando la aplicación en **My Apps**
-- Pantalla de configuración SAML
+
+### 01 — Aplicación creada desde galería (Enterprise Applications)
+<br>
+
+[<img src="images/01-enterprise-app.png" width="800">](images/01-enterprise-app.png)
+
+### 02 — Propiedades de la aplicación (Visible para los usuarios / Asignación requerida)
+<br>
+
+[<img src="images/02-app-properties.png" width="800">](images/02-app-properties.png)
+
+### 03 — Aplicación asignada a grupo (Users and groups)
+<br>
+
+[<img src="images/03-app-assigned-to-group.png" width="800">](images/03-app-assigned-to-group.png)
+
+### 04 — Usuario dentro del grupo (Group membership)
+<br>
+
+[<img src="images/04-user-in-group.png" width="800">](images/04-user-in-group.png)
+
+### 05 — My Apps (vista del usuario estándar)
+<br>
+
+[<img src="images/05-myapps-user-view.png" width="800">](images/05-myapps-user-view.png)
+
+### 06 — Configuración inicial de SSO (SAML)
+<br>
+
+[<img src="images/06-sso-saml-configuration.png" width="800">](images/06-sso-saml-configuration.png)
 
 ---
 
